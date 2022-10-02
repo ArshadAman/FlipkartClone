@@ -1,2 +1,2 @@
-# FlipkartClone
-this is a flipkart homepage clone
+# Flipkart Clone
+This is a flipkart homepage clone
